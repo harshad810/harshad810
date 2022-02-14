@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshad810
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning tybsc(IT) and python + data science
+- 🌱 I’m currently learning python + data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
